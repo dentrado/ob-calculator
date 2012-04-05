@@ -5,7 +5,8 @@ the swedish RPGs Eon and Neotech.
 
 ## Usage
 
-```lein deps
+```bash
+lein deps
 lein repl
 user=> (use 'ob-calculator.core)
 ```
